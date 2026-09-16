@@ -1,11 +1,11 @@
 # Star-topology
 Project Overview
 This project includes:
-1 Layer 3 Core Switch
-3 Access Switches
-1 Branch Router
-1 ISP Router
-Departmental PCs
+1 Layer 3 Core Switch, 
+3 Access Switches, 
+1 Branch Router, 
+1 ISP Router, 
+Departmental PCs, 
 Simulated internet server
 
 Layer 3 Core
