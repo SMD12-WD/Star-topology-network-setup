@@ -8,8 +8,8 @@ This project includes:
 Departmental PCs, 
 Simulated internet server
 
-Layer 3 Core
-The Core Switch performs:
+
+The layer 3 Core Switch performs:
 
 Inter VLAN routing, 
 Routing between the internal VLANs, 
