@@ -27,4 +27,4 @@ Layer 3 connectivity to the Branch Router
                 |          |          |
                PCs        PCs         PCs
 
-A star topology enterprise network built in Cisco Packet Tracer using a Layer 3 Core Switch connected to three Access Switches. Each access switch represents the same departmental VLAN structure, creating a multi switch enterprise environment.
+A star topology network setup built in Cisco packet tracer using a Layer 3 Core Switch connected to three Access Switches. Each access switch represents the same departmental VLAN structure, creating a multi switch enterprise environment.
