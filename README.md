@@ -11,8 +11,8 @@ Simulated internet server
 Layer 3 Core
 The Core Switch performs:
 
-Inter-VLAN routing
-Routing between the internal VLANs
+Inter VLAN routing, 
+Routing between the internal VLANs, 
 Layer 3 connectivity to the Branch Router
 
                                      Network Structure:
